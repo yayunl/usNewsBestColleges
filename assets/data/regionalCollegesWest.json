@@ -1,0 +1,5292 @@
+[
+  {
+    "institution": {
+      "displayName": "Embry-Riddle Aeronautical University--Prescott",
+      "primaryKey": "666090",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "embry-riddle-prescott",
+      "region": "west",
+      "location": "Prescott, AZ",
+      "state": "AZ",
+      "city": "Prescott",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#1",
+      "rankingDisplayScore": "100",
+      "rankingFullDisplayText": "#1 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/aac91b1/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F1a%2F1a28ed986049a6019efd61eff11505%2Fcollege-photo_18686.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 42204,
+        "fieldType": "searchTuition",
+        "displayValue": "$42,204",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 3120,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 3,120"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "68%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1170-1380"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "24-31"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "3.5"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1170-1380"
+          },
+          {
+            "name": "ACT",
+            "value": "24-31"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1926, Embry-Riddle Aeronautical University--Prescott is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "California State University--Maritime Academy",
+      "primaryKey": "1134",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "california-state-university-maritime-academy",
+      "region": "west",
+      "location": "Vallejo, CA",
+      "state": "CA",
+      "city": "Vallejo",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#2",
+      "rankingDisplayScore": "93",
+      "rankingFullDisplayText": "#2 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/619295a/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fbe%2Fc0b4f0fa35a8722516e3b6ecaf6171%2Fcollege-photo_31361.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 18996,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $18,996,(in-state): $7,116",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 880,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 880"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "82%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "2.9"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "\u003cp\u003eLocated on the water 30 miles northeast of San Francisco, the California State University—Maritime Academy is a public school that offers six degree programs. Cal Maritime students are required to spend two months on a training ship in the Pacific Ocean, where they practice skills they learned in the classroom.\u003cbr\u003e\u0026nbsp;\u003c/p\u003e"
+  },
+  {
+    "institution": {
+      "displayName": "Carroll College",
+      "primaryKey": "2526",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "carroll-college",
+      "region": "west",
+      "location": "Helena, MT",
+      "state": "MT",
+      "city": "Helena",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#3",
+      "rankingDisplayScore": "82",
+      "rankingFullDisplayText": "#3 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/6bbe478/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F5e%2Fe1c09978180a384e9062834cbc668b%2Fcollege-photo_29999.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 40352,
+        "fieldType": "searchTuition",
+        "displayValue": "$40,352",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1160,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,160"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$28,201"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "56%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "78%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.7"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1080-1200"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "13-29"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "2.2"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1080-1200"
+          },
+          {
+            "name": "ACT",
+            "value": "13-29"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1909, Carroll College is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Criswell College",
+      "primaryKey": "29351",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "criswell-college",
+      "region": "west",
+      "location": "Dallas, TX",
+      "state": "TX",
+      "city": "Dallas",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#4",
+      "rankingDisplayScore": "70",
+      "rankingFullDisplayText": "#4 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 13350,
+        "fieldType": "searchTuition",
+        "displayValue": "$13,350",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 122,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 122"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "100%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1090-1150"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1090-1150"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1970, Criswell College is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Oregon Institute of Technology",
+      "primaryKey": "3211",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "oregon-institute-of-technology",
+      "region": "west",
+      "location": "Klamath Falls, OR",
+      "state": "OR",
+      "city": "Klamath Falls",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#5",
+      "rankingDisplayScore": "67",
+      "rankingFullDisplayText": "#5 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/d0b773d/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ffa%2F98aa3ef3a3e89cd44f631fe61bb5bb%2Fcollege-photo_12576.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 35592,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $35,592,(in-state): $12,687",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 4804,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 4,804"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$43,815"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "24%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "93%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.5"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1050-1255"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "23-30"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "2.9"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1050-1255"
+          },
+          {
+            "name": "ACT",
+            "value": "23-30"
+          }
+        ]
+      }
+    },
+    "blurb": "\u003cp\u003eLocated in the foothills of the Cascade Mountains, the Oregon Institute of Technology is a public school with strong engineering programs and a focus on sustainable, renewable energy. Students can take advantage of OIT's scenery and enjoy outdoor activities such as snowboarding, deep-sea fishing and skydiving.\u003c/p\u003e"
+  },
+  {
+    "institution": {
+      "displayName": "Fashion Institute of Design \u0026 Merchandising",
+      "primaryKey": "11112",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "fashion-institute-of-design--merchandising",
+      "region": "west",
+      "location": "Los Angeles, CA",
+      "state": "CA",
+      "city": "Los Angeles",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#6",
+      "rankingDisplayScore": "66",
+      "rankingFullDisplayText": "#6 in Regional Colleges West",
+      "institutionalControl": "proprietary",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/9897f78/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fc3%2F8ecdc247fe7ffa4139357bc1a3a4e7%2Fcollege-photo_24032.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 32645,
+        "fieldType": "searchTuition",
+        "displayValue": "$32,645",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1761,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,761"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "42%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1969, Fashion Institute of Design \u0026 Merchandising is a proprietary institution. The student-faculty ratio at Fashion Institute of Design \u0026 Merchandising is 18:1."
+  },
+  {
+    "institution": {
+      "displayName": "College of Idaho",
+      "primaryKey": "1617",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "college-of-idaho",
+      "region": "west",
+      "location": "Caldwell, ID",
+      "state": "ID",
+      "city": "Caldwell",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#7",
+      "rankingDisplayScore": "65",
+      "rankingFullDisplayText": "#7 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/ee01455/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F94%2F7cabc148bf513b285fe8c4adacefbc%2Fcollege-photo_35507.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 36205,
+        "fieldType": "searchTuition",
+        "displayValue": "$36,205",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1054,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,054"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$41,685"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "42%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "46%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1070-1240"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "23-29"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1070-1240"
+          },
+          {
+            "name": "ACT",
+            "value": "23-29"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1891, College of Idaho is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Brigham Young University--Idaho",
+      "primaryKey": "1625",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "brigham-young-university-idaho",
+      "region": "west",
+      "location": "Rexburg, ID",
+      "state": "ID",
+      "city": "Rexburg",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#8",
+      "rankingDisplayScore": "61",
+      "rankingFullDisplayText": "#8 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 4536,
+        "fieldType": "searchTuition",
+        "displayValue": "$4,536",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 44304,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 44,304"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "97%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "990-1200"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "20-26"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "2.7"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "3.3"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "990-1200"
+          },
+          {
+            "name": "ACT",
+            "value": "20-26"
+          }
+        ]
+      }
+    },
+    "blurb": "Brigham Young University--Idaho is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Brigham Young University--Hawaii",
+      "primaryKey": "1606",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "brigham-young-university-hawaii",
+      "region": "west",
+      "location": "Laie Oahu, HI",
+      "state": "HI",
+      "city": "Laie Oahu",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#9",
+      "rankingDisplayScore": "60",
+      "rankingFullDisplayText": "#9 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/5422e87/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fda%2F60a155d784396d219e8c1caedfeda7%2Fcollege-photo_11420.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 6250,
+        "fieldType": "searchTuition",
+        "displayValue": "$6,250",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 2893,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 2,893"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "88%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1075-1260"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "21-27"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1075-1260"
+          },
+          {
+            "name": "ACT",
+            "value": "21-27"
+          }
+        ]
+      }
+    },
+    "blurb": "Brigham Young University--Hawaii is a private institution. The student-faculty ratio at Brigham Young University--Hawaii is 16:1."
+  },
+  {
+    "institution": {
+      "displayName": "Texas Lutheran University",
+      "primaryKey": "3641",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "texas-lutheran-university",
+      "region": "west",
+      "location": "Seguin, TX",
+      "state": "TX",
+      "city": "Seguin",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#11",
+      "rankingDisplayScore": "55",
+      "rankingFullDisplayText": "#11 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/da0d5e3/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F80%2F7d%2F8351b20d40b48b34e389e944aec3%2F190821texas-lutheran-university0.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 34920,
+        "fieldType": "searchTuition",
+        "displayValue": "$34,920",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1329,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,329"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$25,987"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "77%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "92%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.0"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1030-1220"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "20-27"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1030-1220"
+          },
+          {
+            "name": "ACT",
+            "value": "20-27"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1891, Texas Lutheran University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Warner Pacific University",
+      "primaryKey": "3225",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "warner-pacific",
+      "region": "west",
+      "location": "Portland, OR",
+      "state": "OR",
+      "city": "Portland",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#11",
+      "rankingDisplayScore": "53",
+      "rankingFullDisplayText": "#11 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/58f6111/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F3c%2F8dd43f65a4cd5318c6e5b857d0709f%2Fcollege-photo_20701.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 21010,
+        "fieldType": "searchTuition",
+        "displayValue": "$21,010",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 406,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 406"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$23,338"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "65%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "76%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1937, Warner Pacific University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "University of Antelope Valley",
+      "primaryKey": "666993",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "university-of-antelope-valley",
+      "region": "west",
+      "location": "Lancaster, CA",
+      "state": "CA",
+      "city": "Lancaster",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#12",
+      "rankingDisplayScore": "51",
+      "rankingFullDisplayText": "#12 in Regional Colleges West",
+      "institutionalControl": "proprietary",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 67080,
+        "fieldType": "searchTuition",
+        "displayValue": "$67,080",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 550,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 550"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1997, University of Antelope Valley is a proprietary institution. The student-faculty ratio at University of Antelope Valley is 14:1."
+  },
+  {
+    "institution": {
+      "displayName": "Pacific Union College",
+      "primaryKey": "1258",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "pacific-union-college",
+      "region": "west",
+      "location": "Angwin, CA",
+      "state": "CA",
+      "city": "Angwin",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#13",
+      "rankingDisplayScore": "50",
+      "rankingFullDisplayText": "#13 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/026d16e/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F44%2Fce872246da4bca228a9ab47f55d9c0%2Fcollege-photo_19655.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 35214,
+        "fieldType": "searchTuition",
+        "displayValue": "$35,214",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 848,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 848"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$22,459"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "75%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "48%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.5"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "990-1260"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "19-26"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "2.3"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "990-1260"
+          },
+          {
+            "name": "ACT",
+            "value": "19-26"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1882, Pacific Union College is a private institution. The school has 77.6% of its classes with fewer than 20 students, and the student-faculty ratio at Pacific Union College is 10:1."
+  },
+  {
+    "institution": {
+      "displayName": "University of Silicon Valley",
+      "primaryKey": "1177",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "university-of-silicon-valley",
+      "region": "west",
+      "location": "San Jose, CA",
+      "state": "CA",
+      "city": "San Jose",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#14",
+      "rankingDisplayScore": "49",
+      "rankingFullDisplayText": "#14 in Regional Colleges West",
+      "institutionalControl": "proprietary",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/de7b6a6/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F94%2Fdfa29c027d86c944f9b63947b263f0%2Fcollege-photo_4701.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 27850,
+        "fieldType": "searchTuition",
+        "displayValue": "$27,850",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 379,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 379"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$37,177"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "57%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "65%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "2.8"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "850-1010"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "850-1010"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1887, University of Silicon Valley is a proprietary institution. "
+  },
+  {
+    "institution": {
+      "displayName": "John Paul the Great Catholic University",
+      "primaryKey": "666990",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "john-paul-the-great-catholic-university",
+      "region": "west",
+      "location": "Escondido, CA",
+      "state": "CA",
+      "city": "Escondido",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#15",
+      "rankingDisplayScore": "48",
+      "rankingFullDisplayText": "#15 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/89da450/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fbe%2F6b5f097164e76dc419a934e454e137%2Fcollege-photo_32577.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 29500,
+        "fieldType": "searchTuition",
+        "displayValue": "$29,500",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 300,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 300"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$23,353"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "72%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "79%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1068-1288"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "19-24"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1068-1288"
+          },
+          {
+            "name": "ACT",
+            "value": "19-24"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 2006, John Paul the Great Catholic University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Southwestern Adventist University",
+      "primaryKey": "3619",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "southwestern-adventist",
+      "region": "west",
+      "location": "Keene, TX",
+      "state": "TX",
+      "city": "Keene",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#15",
+      "rankingDisplayScore": "48",
+      "rankingFullDisplayText": "#15 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 24588,
+        "fieldType": "searchTuition",
+        "displayValue": "$24,588",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 786,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 786"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "54%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "900-1180"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "17-24"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "900-1180"
+          },
+          {
+            "name": "ACT",
+            "value": "17-24"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1893, Southwestern Adventist University is a private institution. The student-faculty ratio at Southwestern Adventist University is 11:1."
+  },
+  {
+    "institution": {
+      "displayName": "University of Hawaii--West Oahu",
+      "primaryKey": "21078",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "university-of-hawaii-west-oahu",
+      "region": "west",
+      "location": "Kapolei, HI",
+      "state": "HI",
+      "city": "Kapolei",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#15",
+      "rankingDisplayScore": "48",
+      "rankingFullDisplayText": "#15 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/1c95f14/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff3%2Fd843b1bc18771d14e1caf398c50744%2Fcollege-photo_11844.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 20544,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $20,544,(in-state): $7,584",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 2913,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 2,913"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "96%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.4"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1040-1150"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "16-22"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1040-1150"
+          },
+          {
+            "name": "ACT",
+            "value": "16-22"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1976, University of Hawaii--West Oahu is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Montana State University--Northern",
+      "primaryKey": "2533",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "montana-state-northern",
+      "region": "west",
+      "location": "Havre, MT",
+      "state": "MT",
+      "city": "Havre",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#18",
+      "rankingDisplayScore": "47",
+      "rankingFullDisplayText": "#18 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 18665,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $18,665,(in-state): $5,955",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1008,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,008"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Montana State University--Northern is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Arizona Christian University",
+      "primaryKey": "7113",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "arizona-christian-university",
+      "region": "west",
+      "location": "Glendale, AZ",
+      "state": "AZ",
+      "city": "Glendale",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#18",
+      "rankingDisplayScore": "47",
+      "rankingFullDisplayText": "#18 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/9ab82e8/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff9%2F5888b830c8de5f5630fa2b9994f564%2FCampus-01.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 35047,
+        "fieldType": "searchTuition",
+        "displayValue": "$35,047",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1082,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,082"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$43,619"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "36%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "70%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.3"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1000-1200"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "18-25"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1000-1200"
+          },
+          {
+            "name": "ACT",
+            "value": "18-25"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1960, Arizona Christian University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Snow College",
+      "primaryKey": "666994",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "snow-college",
+      "region": "west",
+      "location": "Ephraim, UT",
+      "state": "UT",
+      "city": "Ephraim",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#19",
+      "rankingDisplayScore": "46",
+      "rankingFullDisplayText": "#19 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/8140623/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fcc%2F684f90b820f22c7d089116213be178%2Fcollege-photo_30586.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 14130,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $14,130,(in-state): $4,180",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 6070,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 6,070"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "100%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "2.8"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "400-400"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "16-28"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "400-400"
+          },
+          {
+            "name": "ACT",
+            "value": "16-28"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1888, Snow College is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Colorado Mesa University",
+      "primaryKey": "1358",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "colorado-mesa-university",
+      "region": "west",
+      "location": "Grand Junction, CO",
+      "state": "CO",
+      "city": "Grand Junction",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#20",
+      "rankingDisplayScore": "44",
+      "rankingFullDisplayText": "#20 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 26034,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $26,034,(in-state): $10,391",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 8681,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 8,681"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "64%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.3"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "930-1180"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "18-25"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "2.7"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "930-1180"
+          },
+          {
+            "name": "ACT",
+            "value": "18-25"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1925, Colorado Mesa University is a public institution. The school has 56.5% of its classes with fewer than 20 students, and the student-faculty ratio at Colorado Mesa University is 18:1."
+  },
+  {
+    "institution": {
+      "displayName": "Life Pacific University",
+      "primaryKey": "12630",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "life-pacific-university",
+      "region": "west",
+      "location": "San Dimas, CA",
+      "state": "CA",
+      "city": "San Dimas",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#20",
+      "rankingDisplayScore": "44",
+      "rankingFullDisplayText": "#20 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 20450,
+        "fieldType": "searchTuition",
+        "displayValue": "$20,450",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 397,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 397"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$25,035"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "53%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "94%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1923, Life Pacific University is a private institution. The school has 77.5% of its classes with fewer than 20 students, and the student-faculty ratio at Life Pacific University is 13:1."
+  },
+  {
+    "institution": {
+      "displayName": "Fort Lewis College",
+      "primaryKey": "1353",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "fort-lewis-college",
+      "region": "west",
+      "location": "Durango, CO",
+      "state": "CO",
+      "city": "Durango",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#23",
+      "rankingDisplayScore": "43",
+      "rankingFullDisplayText": "#23 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/d15dc3b/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F0c%2Fa94e9b1398b91e58d39c12a7593fc9%2FCampus1_0811-min.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 19724,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $19,724,(in-state): $9,212",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 3268,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 3,268"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$30,218"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "45%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "91%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.3"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1000-1220"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "16-23"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "2.1"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "2.0"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1000-1220"
+          },
+          {
+            "name": "ACT",
+            "value": "16-23"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1911, Fort Lewis College is a public institution. The school has 49.3% of its classes with fewer than 20 students, and the student-faculty ratio at Fort Lewis College is 13:1."
+  },
+  {
+    "institution": {
+      "displayName": "University of Montana Western",
+      "primaryKey": "2537",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "montana-western",
+      "region": "west",
+      "location": "Dillon, MT",
+      "state": "MT",
+      "city": "Dillon",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#23",
+      "rankingDisplayScore": "43",
+      "rankingFullDisplayText": "#23 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/0c59643/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F53%2Ff9e6287647d56f6e3da072f24cb0dc%2Fcollege-photo_2431.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 18961,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $18,961,(in-state): $6,431",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1424,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,424"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$28,609"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "49%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "37%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.3"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "870-1210"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "16-23"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "870-1210"
+          },
+          {
+            "name": "ACT",
+            "value": "16-23"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1893, University of Montana Western is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "McMurry University",
+      "primaryKey": "3591",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "mcmurry-university",
+      "region": "west",
+      "location": "Abilene, TX",
+      "state": "TX",
+      "city": "Abilene",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#23",
+      "rankingDisplayScore": "43",
+      "rankingFullDisplayText": "#23 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/a2d3ef4/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fb0%2Feaae30a1b0764a13e16ff2bf1f7601%2FWhereRealHappens.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 31162,
+        "fieldType": "searchTuition",
+        "displayValue": "$31,162",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1231,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,231"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "$22,906"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "79%"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "57%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.8"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "1040-1230"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "20-25"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "1040-1230"
+          },
+          {
+            "name": "ACT",
+            "value": "20-25"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1923, McMurry University is a private institution. McMurry University offers a Greek system, where 14 percent of the student body is involved in a sorority and 15% is involved in a fraternity."
+  },
+  {
+    "institution": {
+      "displayName": "Lewis-Clark State College",
+      "primaryKey": "1621",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "lewisclark-state-college",
+      "region": "west",
+      "location": "Lewiston, ID",
+      "state": "ID",
+      "city": "Lewiston",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#26",
+      "rankingDisplayScore": "40",
+      "rankingFullDisplayText": "#26 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 21386,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $21,386,(in-state): $7,388",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 3709,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 3,709"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "100%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "2.8"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1893, Lewis-Clark State College is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "University of Advancing Technology",
+      "primaryKey": "25590",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "university-of-advancing-technology",
+      "region": "west",
+      "location": "Tempe, AZ",
+      "state": "AZ",
+      "city": "Tempe",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#27",
+      "rankingDisplayScore": "39",
+      "rankingFullDisplayText": "#27 in Regional Colleges West",
+      "institutionalControl": "proprietary",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 18794,
+        "fieldType": "searchTuition",
+        "displayValue": "$18,794",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 851,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 851"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "91%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "University of Advancing Technology is a proprietary institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Alaska Pacific University",
+      "primaryKey": "1061",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "alaska-pacific-university",
+      "region": "west",
+      "location": "Anchorage, AK",
+      "state": "AK",
+      "city": "Anchorage",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#28",
+      "rankingDisplayScore": "38",
+      "rankingFullDisplayText": "#28 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/846d536/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F6f%2F77f90133981627ed1b7cd275e31632%2F8G0A2173.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 20760,
+        "fieldType": "searchTuition",
+        "displayValue": "$20,760",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 376,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 376"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "96%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1959, Alaska Pacific University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Rocky Mountain College of Art and Design",
+      "primaryKey": "7649",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "rocky-mountain-college-of-art-and-design",
+      "region": "west",
+      "location": "Lakewood, CO",
+      "state": "CO",
+      "city": "Lakewood",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#29",
+      "rankingDisplayScore": "37",
+      "rankingFullDisplayText": "#29 in Regional Colleges West",
+      "institutionalControl": "proprietary",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 22607,
+        "fieldType": "searchTuition",
+        "displayValue": "$22,607",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1837,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,837"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1963, Rocky Mountain College of Art and Design is a proprietary institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Howard Payne University",
+      "primaryKey": "3575",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "howard-payne-university",
+      "region": "west",
+      "location": "Brownwood, TX",
+      "state": "TX",
+      "city": "Brownwood",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#30",
+      "rankingDisplayScore": "35",
+      "rankingFullDisplayText": "#30 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/8d5251e/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fdc%2F864a2e139afe879dfc95f538b94198%2Fcollege-photo_25386.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 33552,
+        "fieldType": "searchTuition",
+        "displayValue": "$33,552",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 773,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 773"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "62%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.5"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "920-1130"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "19-22"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "920-1130"
+          },
+          {
+            "name": "ACT",
+            "value": "19-22"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1889, Howard Payne University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Rogers State University",
+      "primaryKey": "3168",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "rogers-state",
+      "region": "west",
+      "location": "Claremore, OK",
+      "state": "OK",
+      "city": "Claremore",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#31",
+      "rankingDisplayScore": "34",
+      "rankingFullDisplayText": "#31 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 16260,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $16,260,(in-state): $7,920",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 3063,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 3,063"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "60%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.4"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "818-915"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "17-23"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "818-915"
+          },
+          {
+            "name": "ACT",
+            "value": "17-23"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1909, Rogers State University is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Northern New Mexico College",
+      "primaryKey": "20839",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "northern-new-mexico-college",
+      "region": "west",
+      "location": "Espanola, NM",
+      "state": "NM",
+      "city": "Espanola",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#32",
+      "rankingDisplayScore": "33",
+      "rankingFullDisplayText": "#32 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 14329,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $14,329,(in-state): $5,064",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1136,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,136"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Northern New Mexico College is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Utah Tech University",
+      "primaryKey": "3671",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "utah-tech-university",
+      "region": "west",
+      "location": "Saint George, UT",
+      "state": "UT",
+      "city": "Saint George",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#32",
+      "rankingDisplayScore": "32",
+      "rankingFullDisplayText": "#32 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 17644,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $17,644,(in-state): $6,074",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 12481,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 12,481"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "97%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.4"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "871-1198"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "18-24"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "2.8"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "871-1198"
+          },
+          {
+            "name": "ACT",
+            "value": "18-24"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1911, Utah Tech University is a public institution. The school has 37.2% of its classes with fewer than 20 students, and the student-faculty ratio at Utah Tech University is 22:1."
+  },
+  {
+    "institution": {
+      "displayName": "Jarvis Christian University",
+      "primaryKey": "3637",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "jarvis-christian-university",
+      "region": "west",
+      "location": "Hawkins, TX",
+      "state": "TX",
+      "city": "Hawkins",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#34",
+      "rankingDisplayScore": "31",
+      "rankingFullDisplayText": "#34 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 11720,
+        "fieldType": "searchTuition",
+        "displayValue": "$11,720",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 721,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 721"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1912, Jarvis Christian University is a private institution. The student-faculty ratio at Jarvis Christian University is 12:1."
+  },
+  {
+    "institution": {
+      "displayName": "Wiley College",
+      "primaryKey": "3669",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "wiley-college",
+      "region": "west",
+      "location": "Marshall, TX",
+      "state": "TX",
+      "city": "Marshall",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#34",
+      "rankingDisplayScore": "30",
+      "rankingFullDisplayText": "#34 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 12500,
+        "fieldType": "searchTuition",
+        "displayValue": "$12,500",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 698,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 698"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "40%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "2.5"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "13-17"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "13-17"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1873, Wiley College is a private institution. Wiley College offers a Greek system, where 1 percent of the student body is involved in a sorority and 2% is involved in a fraternity."
+  },
+  {
+    "institution": {
+      "displayName": "Nevada State University",
+      "primaryKey": "41143",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "nevada-state-university",
+      "region": "west",
+      "location": "Henderson, NV",
+      "state": "NV",
+      "city": "Henderson",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#35",
+      "rankingDisplayScore": "30",
+      "rankingFullDisplayText": "#35 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 19964,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $19,964,(in-state): $6,225",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 7158,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 7,158"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "79%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "2.7"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 2002, Nevada State University is a public institution. The student-faculty ratio at Nevada State University is 18:1."
+  },
+  {
+    "institution": {
+      "displayName": "Huston-Tillotson University",
+      "primaryKey": "3577",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "huston-tillotson",
+      "region": "west",
+      "location": "Austin, TX",
+      "state": "TX",
+      "city": "Austin",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#35",
+      "rankingDisplayScore": "30",
+      "rankingFullDisplayText": "#35 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 14703,
+        "fieldType": "searchTuition",
+        "displayValue": "$14,703",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 991,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 991"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "50%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "820-1000"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "14-20"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "820-1000"
+          },
+          {
+            "name": "ACT",
+            "value": "14-20"
+          }
+        ]
+      }
+    },
+    "blurb": "Huston-Tillotson University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Oklahoma Panhandle State University",
+      "primaryKey": "3174",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "oklahoma-panhandle-state",
+      "region": "west",
+      "location": "Goodwell, OK",
+      "state": "OK",
+      "city": "Goodwell",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#37",
+      "rankingDisplayScore": "27",
+      "rankingFullDisplayText": "#37 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/6f18cec/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fa8%2F2b%2F884e0bdc4f5fb385899b50e0e362%2F190823oklahoma-panhandle-state-university1.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 8426,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $8,426,(in-state): $8,426",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1242,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,242"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "90%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": "3.1"
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "863-1088"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "17-21"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "2.4"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "863-1088"
+          },
+          {
+            "name": "ACT",
+            "value": "17-21"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1909, Oklahoma Panhandle State University is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Paul Quinn College",
+      "primaryKey": "667046",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "paul-quinn-college",
+      "region": "west",
+      "location": "Dallas, TX",
+      "state": "TX",
+      "city": "Dallas",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#38",
+      "rankingDisplayScore": "27",
+      "rankingFullDisplayText": "#38 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 13798,
+        "fieldType": "searchTuition",
+        "displayValue": "$13,798",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 384,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 384"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "87%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Paul Quinn College is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Northern Marianas College",
+      "primaryKey": "667045",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "northern-marianas-college",
+      "region": "west",
+      "location": "Saipan, MP",
+      "state": "MP",
+      "city": "Saipan",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#40",
+      "rankingDisplayScore": "25",
+      "rankingFullDisplayText": "#40 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 5520,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $5,520,(in-state): $4,038",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 1298,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 1,298"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Northern Marianas College is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Art Institute of Houston",
+      "primaryKey": "21171",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "art-institute-of-houston",
+      "region": "west",
+      "location": "Houston, TX",
+      "state": "TX",
+      "city": "Houston",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#41",
+      "rankingDisplayScore": "24",
+      "rankingFullDisplayText": "#41 in Regional Colleges West",
+      "institutionalControl": "proprietary",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 20794,
+        "fieldType": "searchTuition",
+        "displayValue": "$20,794",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 386,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 386"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Art Institute of Houston is a proprietary institution. "
+  },
+  {
+    "institution": {
+      "displayName": "South Texas College",
+      "primaryKey": "31034",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "south-texas",
+      "region": "west",
+      "location": "McAllen, TX",
+      "state": "TX",
+      "city": "McAllen",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#42",
+      "rankingDisplayScore": "22",
+      "rankingFullDisplayText": "#42 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": "https://www.usnews.com/dims4/USNEWS/38b6b37/17177859217/thumbnail/170x170/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F90%2Fef97fbbd8c8ad9653d404fb80654ba%2Fcollege-photo_11795.jpg"
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 7500,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $7,500,(in-state): $4,530",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 28962,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 28,962"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "South Texas College is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Colorado Mountain College",
+      "primaryKey": "666946",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "colorado-mountain-college",
+      "region": "west",
+      "location": "Glenwood Springs, CO",
+      "state": "CO",
+      "city": "Glenwood Springs",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#43",
+      "rankingDisplayScore": "19",
+      "rankingFullDisplayText": "#43 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 11820,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $11,820,(in-state): $4,980",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 5184,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 5,184"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1967, Colorado Mountain College is a public institution. The school has 85.6% of its classes with fewer than 20 students, and the student-faculty ratio at Colorado Mountain College is 11:1."
+  },
+  {
+    "institution": {
+      "displayName": "Southwestern Christian University",
+      "primaryKey": "3180",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "southwestern-christian-university",
+      "region": "west",
+      "location": "Bethany, OK",
+      "state": "OK",
+      "city": "Bethany",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#43",
+      "rankingDisplayScore": "19",
+      "rankingFullDisplayText": "#43 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 21416,
+        "fieldType": "searchTuition",
+        "displayValue": "$21,416",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 460,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 460"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1946, Southwestern Christian University is a private institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Great Basin College",
+      "primaryKey": "6977",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "great-basin-college",
+      "region": "west",
+      "location": "Elko, NV",
+      "state": "NV",
+      "city": "Elko",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#45-48",
+      "rankingDisplayScore": "Bottom 25%",
+      "rankingFullDisplayText": "#45-48 in Regional Colleges West",
+      "institutionalControl": "public",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 13037,
+        "fieldType": "searchTuition",
+        "displayValue": "(out-of-state): $13,037,(in-state): $3,773",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 3414,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 3,414"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "N/A"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "N/A"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "N/A"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "N/A"
+          },
+          {
+            "name": "ACT",
+            "value": "N/A"
+          }
+        ]
+      }
+    },
+    "blurb": "Founded in 1967, Great Basin College is a public institution. "
+  },
+  {
+    "institution": {
+      "displayName": "Bacone College",
+      "primaryKey": "3147",
+      "alias": "",
+      "schoolType": "regional-colleges-west",
+      "urlName": "bacone-college",
+      "region": "west",
+      "location": "Muskogee, OK",
+      "state": "OK",
+      "city": "Muskogee",
+      "zipCode": "",
+      "rankingDisplayName": "Regional Colleges West",
+      "rankingDisplayRank": "#45-48",
+      "rankingDisplayScore": "Bottom 25%",
+      "rankingFullDisplayText": "#45-48 in Regional Colleges West",
+      "institutionalControl": "private",
+      "primaryPhotoThumb": ""
+    },
+    "searchData": {
+      "tuition": {
+        "rawValue": 15060,
+        "fieldType": "searchTuition",
+        "displayValue": "$15,060",
+        "fieldName": "searchTuition"
+      },
+      "enrollment": {
+        "dataQaId": "TOTAL_UNDERGRADS",
+        "rawValue": 266,
+        "totalUndergradEnrollment": "",
+        "displayValue": "(fall 2022): 266"
+      },
+      "costAfterAid": {
+        "fieldName": "cAllNetCost",
+        "displayValue": "N/A"
+      },
+      "percentReceivingAid": {
+        "fieldName": "cPctNeedBasedAid",
+        "displayValue": "N/A"
+      },
+      "acceptanceRate": {
+        "fieldName": "rCAcceptRate",
+        "displayValue": "55%"
+      },
+      "hsGpaAvg": {
+        "fieldName": "avgHsGpa",
+        "displayValue": ""
+      },
+      "satAvg": {
+        "fieldName": "satCompSearch",
+        "displayValue": "938-1033"
+      },
+      "actAvg": {
+        "fieldName": "actScoreSearch",
+        "displayValue": "14-17"
+      },
+      "engineeringRepScore": {
+        "fieldName": "engineeringProgram",
+        "displayValue": "N/A"
+      },
+      "businessRepScore": {
+        "fieldName": "businessProgram",
+        "displayValue": "N/A"
+      },
+      "nursingRepScore": {
+        "fieldName": "nursingProgram",
+        "displayValue": "N/A"
+      },
+      "educationRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "lawRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "medicineRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "psychologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "criminalJusticeRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "communicationsRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "biologyRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "englishRepScore": {
+        "fieldName": "",
+        "displayValue": ""
+      },
+      "testAvgs": {
+        "displayValue": [
+          {
+            "name": "SAT",
+            "value": "938-1033"
+          },
+          {
+            "name": "ACT",
+            "value": "14-17"
+          }
+        ]
+      }
+    },
+    "blurb": "Bacone College is a private institution. The student-faculty ratio at Bacone College is 11:1."
+  }
+]

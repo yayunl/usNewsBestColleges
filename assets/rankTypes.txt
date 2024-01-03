@@ -1,0 +1,27 @@
+Rank type: National Universities
+Rank type: National Liberal Arts Colleges
+
+Rank type: Regional Universities Midwest
+Rank type: Regional Universities West
+Rank type: Regional Universities North
+Rank type: Regional Universities South
+
+Rank type: Regional Colleges West
+Rank type: Regional Colleges South
+Rank type: Regional Colleges Midwest
+Rank type: Regional Colleges North
+
+
+
+
+
+Rank type: Health Professions Schools
+Rank type: Arts Schools
+Rank type: Other Schools
+Rank type: Faith-related Schools
+Rank type: Tribal Schools
+Rank type: Engineering & Technology Schools
+Rank type: Business Schools
+Rank type: Medical Schools and Centers
+Rank type: Miscellaneous Schools
+Rank type: Research Schools
